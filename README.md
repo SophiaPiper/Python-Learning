@@ -1,2 +1,2 @@
 # Python-Learning
-A repository of python tutorials I like
+A repository of python tutorials I re-created to learn Python
